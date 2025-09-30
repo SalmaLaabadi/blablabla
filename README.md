@@ -1,1 +1,1 @@
-# blablabla
+void test(int a);
